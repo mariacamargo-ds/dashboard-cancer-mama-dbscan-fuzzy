@@ -76,4 +76,4 @@ Acesse o dashboard em produção:
 ## 👩‍💻 Autora
 
 Maria Eduarda da Cruz de Camargo  
-[LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/maricamargo-ds)
+[LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/mariacamargo-ds)
