@@ -69,7 +69,7 @@ streamlit run dash_cancer_mama_dbscan_fuzzy.py
 ## 🌐 Deploy
 
 Acesse o dashboard em produção:
-[https://mariacamargo-ds-dbscan-fuzzy.streamlit.app](https://dashboard-cancer-mama-dbscan-fuzzy-20260520.streamlit.app))
+[https://mariacamargo-ds-dbscan-fuzzy.streamlit.app](https://dashboard-cancer-mama-dbscan-fuzzy-20260520.streamlit.app)
 
 ---
 
